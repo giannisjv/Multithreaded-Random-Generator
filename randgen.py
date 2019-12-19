@@ -10,7 +10,6 @@ B=[]
 Red=[]
 Green=[]
 Blue=[]
-count = 0
 
 print("**********************************************************************************")
 print("* The Random Generator Will run with 10 threads for almost 20 secs, gathering info")
