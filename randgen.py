@@ -11,10 +11,6 @@ Red=[]
 Green=[]
 Blue=[]
 
-def myfunc(a, b):
-	return a+b
-
-
 print("**********************************************************************************")
 print("* The Random Generator Will run with 10 threads for almost 20 secs, gathering info")
 print("* Including mouse position and RGB values from your screen.")
